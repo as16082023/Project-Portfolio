@@ -2,35 +2,35 @@
 Welcome to my portfolio! This space showcases a summary of my projects in the data domain.
 
 # 🗂️ Contents
-  - [Excel] 
-  - [SQL]
-  - [Tableau]
-  - [Power-BI]
-  - [Python]
+  - [Excel](#excel) 
+  - [SQL](#sql)
+  - [Tableau](#tableau)
+  - [Power-BI](#power-bi)
+  - [Python](#python)
 
   # Excel 
 | Project Link | Project Description | 
 |---|---|
 🏪 [Supermarket Sales](https://www.linkedin.com/in/akanshashaw230816/recent-activity/all/) | Examining the operational efficiency of supermarkets across three diverse urban landscapes, designed an Excel dashboard to visualize and analyze their performance metrics. |
 | ☕️ [Coffee Bean Sales](https://github.com/as16082023/Coffee-Bean-Sales-Analysis) | This project entails analyzing coffee bean sales data over four years to gain insights into consumer behavior and market trends. |
-| 👥 [Customer Complaint Tracking](https://github.com/as16082023/Customer-Complaint-Tracking) |   |
+
 
 
   
   # SQL
   | Project Link | Project Description | 
 |---|---|
-🏪 [Supermarket Sales](https://www.linkedin.com/in/akanshashaw230816/recent-activity/all/) | Examining the operational efficiency of supermarkets across three diverse urban landscapes, designed an Excel dashboard to visualize and analyze their performance metrics. |
-| ☕️ [Coffee Bean Sales](https://github.com/as16082023/Coffee-Bean-Sales-Analysis) | This project entails analyzing coffee bean sales data over four years to gain insights into consumer behavior and market trends. |
-| 👥 [Customer Complaint Tracking](https://github.com/as16082023/Customer-Complaint-Tracking) |   |
+🎵 [Music Store Analysis](https://github.com/as16082023/Music-Store-Analysis) |The project involves analyzing music store data using SQL queries to enhance decision-making, identify trends, and understand customer behavior. |
+| 🍽️ [Restaurant Order Analysis](https://github.com/as16082023/Restaurant-Order-Analysis) |As a data analyst at The Taste of the World Café, assessed the reception of newly introduced menu items by analyzing customer data. |
+| 🦠 [Covid-19 Data Exploration](https://github.com/as16082023/COVID-19--Data-Exploration-) |  The project focuses on analyzing COVID-19 data using SQL queries. It involves two tables, CovidDeaths and CovidVaccinations, which provide detailed information about COVID-19 cases |
 
 
   # Tableau
   | Project Link | Project Description | Dashboard Link
 |---|---|---|
-🚀 [Space Missions Dashboard](https://github.com/as16082023/Space-Missions-dashboard) | Created a Tableau dashboard to visualize the history of space missions, highlighting key trends, patterns, and insights on launches, successes, companies, and rocket types. |
-| ☕️ [Coffee Bean Sales](https://github.com/as16082023/Coffee-Bean-Sales-Analysis) | This project entails analyzing coffee bean sales data over four years to gain insights into consumer behavior and market trends. |
-| 👥 [Customer Complaint Tracking](https://github.com/as16082023/Customer-Complaint-Tracking) |   |
+🚀 [Space Missions Dashboard](https://github.com/as16082023/Space-Missions-dashboard) | Created a Tableau dashboard to visualize the history of space missions, highlighting key trends, patterns, and insights on launches, successes, companies, and rocket types. | [Dashboard](https://public.tableau.com/app/profile/akansha.shaw/viz/Book_spacemissions/Dashboard1) |
+| 👮‍♂️ [Law Enforcement Encounter Analysis](https://github.com/as16082023/Police-Encounter-Case-Study) | Develop a comprehensive Tableau dashboard analyzing US law enforcement encounters in 2015-2016 | [Dashboard](https://public.tableau.com/app/profile/akansha.shaw/viz/Book_policeencounter/Dashboard1) |
+| 🛍 [Online Retail Dashboard](https://github.com/as16082023/Forage--TATA--Virtual-Internship) | Completed a virtual internship with Forage-Tata, utilizing Excel for data cleaning, Tableau for visualization, and PowerPoint for presenting insights to address business questions.  |  [Dashboard](https://public.tableau.com/app/profile/akansha.shaw/viz/book_onlineretail/Dashboard1) |
 
 
   # Power-BI
