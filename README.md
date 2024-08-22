@@ -23,7 +23,7 @@ Welcome to my portfolio! This space showcases a summary of my projects in the da
 🎵 [Music Store Analysis](https://github.com/as16082023/Music-Store-Analysis) |The project involves analyzing music store data using SQL queries to enhance decision-making, identify trends, and understand customer behavior. |
 | 🍽️ [Restaurant Order Analysis](https://github.com/as16082023/Restaurant-Order-Analysis) |As a data analyst at The Taste of the World Café, assessed the reception of newly introduced menu items by analyzing customer data. |
 | 🦠 [Covid-19 Data Exploration](https://github.com/as16082023/COVID-19--Data-Exploration-) |  The project focuses on analyzing COVID-19 data using SQL queries. It involves two tables, CovidDeaths and CovidVaccinations, which provide detailed information about COVID-19 cases |
-
+| 🏠 [Nashville Housing Data Cleaning](https://github.com/as16082023/Nashville-Housing-Data-Cleaning-Project) | This project involved cleaning and optimizing a Nashville housing dataset, addressing key data quality issues to ensure it was ready for accurate analysis. |
 
   # Tableau
   | Project Link | Project Description | Dashboard Link
