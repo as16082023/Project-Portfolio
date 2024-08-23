@@ -24,7 +24,7 @@ Welcome to my portfolio! This space showcases a summary of my projects in the da
 | 🍽️ [Restaurant Order Analysis](https://github.com/as16082023/Restaurant-Order-Analysis) |As a data analyst at The Taste of the World Café, assessed the reception of newly introduced menu items by analyzing customer data. |
 | 🦠 [Covid-19 Data Exploration](https://github.com/as16082023/COVID-19--Data-Exploration-) |  The project focuses on analyzing COVID-19 data using SQL queries. It involves two tables, CovidDeaths and CovidVaccinations, which provide detailed information about COVID-19 cases |
 | 🏠 [Nashville Housing Data Cleaning](https://github.com/as16082023/Nashville-Housing-Data-Cleaning-Project) | This project involved cleaning and optimizing a Nashville housing dataset, addressing key data quality issues to ensure it was ready for accurate analysis. |
-| 🌍📉 [Global Layoffs](https://github.com/as16082023/World-Layoffs) Analyzing global company layoffs to uncover industry trends and workforce impacts through data cleaning and exploratory data analysis. |
+| 🌍📉 [Global Layoffs](https://github.com/as16082023/World-Layoffs)| Analyzing global company layoffs to uncover industry trends and workforce impacts through data cleaning and exploratory data analysis. |
 
   # Tableau
   | Project Link | Project Description | Dashboard Link
