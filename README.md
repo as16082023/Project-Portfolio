@@ -13,7 +13,7 @@ Welcome to my portfolio! This space showcases a summary of my projects in the da
 |---|---|
 🏪 [Supermarket Sales](https://www.linkedin.com/in/akanshashaw230816/recent-activity/all/) | Examining the operational efficiency of supermarkets across three diverse urban landscapes, designed an Excel dashboard to visualize and analyze their performance metrics. |
 | ☕️ [Coffee Bean Sales](https://github.com/as16082023/Coffee-Bean-Sales-Analysis) | This project entails analyzing coffee bean sales data over four years to gain insights into consumer behavior and market trends. |
-
+| 📈 [Account Sales Analysis](https://github.com/as16082023/Forage-JP-Morgan-Chase-Virtual-Internship) | Completed JPMorgan’s Excel skills for business job simulation on the Forage platform, and applied these concepts in a business context using account sales data.  |
 
 
   
