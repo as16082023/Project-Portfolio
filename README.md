@@ -25,6 +25,7 @@ Welcome to my portfolio! This space showcases a summary of my projects in the da
 | 🦠 [Covid-19 Data Exploration](https://github.com/as16082023/COVID-19--Data-Exploration-) |  The project focuses on analyzing COVID-19 data using SQL queries. It involves two tables, CovidDeaths and CovidVaccinations, which provide detailed information about COVID-19 cases |
 | 🏠 [Nashville Housing Data Cleaning](https://github.com/as16082023/Nashville-Housing-Data-Cleaning-Project) | This project involved cleaning and optimizing a Nashville housing dataset, addressing key data quality issues to ensure it was ready for accurate analysis. |
 | 🌍📉 [Global Layoffs](https://github.com/as16082023/World-Layoffs)| Analyzing global company layoffs to uncover industry trends and workforce impacts through data cleaning and exploratory data analysis. |
+|[AtliQ Hardwares](https://github.com/as16082023/AtliQ-Hardware)| Analyzed data for Atliq Hardware to provide key insights through a SQL challenge. |
 
   # Tableau
   | Project Link | Project Description | Dashboard Link
@@ -40,7 +41,8 @@ Welcome to my portfolio! This space showcases a summary of my projects in the da
 🔍 [Data Professional Survey Breakdown](https://github.com/as16082023/Data-Professional-Survey-Breakdown-) |  Developed a dashboard to visualize 2022 survey data from Alex the Analyst, providing insights into data professionals' salary distribution, preferred programming languages, and satisfaction with salary and work-life balance. |
 | 🚴‍♂️  [AdventureWorks- Bike Shop Analysis ](https://github.com/as16082023/AdventureWorks--Bike-Shop--Dashboard) | Using Power BI, this project analyzes AdventureWorks' sales, revenue, profit, and returns, comparing regional performance and identifying trends and high-value customers from a comprehensive dataset. |
 | 💳 [Credit Card Financial Dashboard](https://github.com/as16082023/Credit-Card-Financial-Dashboard) | Developed a comprehensive Power BI dashboard for real-time credit card operations insights, visualizing transaction data and customer demographics.  |
-
+|  [Atliq Grand Hospitality Analysis](https://github.com/as16082023/Atliq-Hospitality-analysis) | This project presents an overview of AtliQ Grands' performance in the hospitality industry.  |
+|  [Electric Vehicles Sales](https://github.com/as16082023/Electric-Vehicles-) | A resume project challenge by Codebasics, analyzing the EV/Hybrid Vehicles Industry to provide actionable insights for strategic decisions.  |
 
   # Python
   | Project Link | Area | Project Description | Libraries |
