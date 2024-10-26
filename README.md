@@ -26,6 +26,7 @@ Welcome to my portfolio! This space showcases a summary of my projects in the da
 | 🏠 [Nashville Housing Data Cleaning](https://github.com/as16082023/Nashville-Housing-Data-Cleaning-Project) | This project involved cleaning and optimizing a Nashville housing dataset, addressing key data quality issues to ensure it was ready for accurate analysis. |
 | 🌍📉 [Global Layoffs](https://github.com/as16082023/World-Layoffs)| Analyzing global company layoffs to uncover industry trends and workforce impacts through data cleaning and exploratory data analysis. |
 |[AtliQ Hardwares](https://github.com/as16082023/AtliQ-Hardware)| Analyzed data for Atliq Hardware to provide key insights through a SQL challenge. |
+|[Motor Vehicle Thefts](https://github.com/as16082023/Motor-Vehicle-Thefts)| Analyzed vehicle thefts in New Zealand to identify when and where they take place. |
 
   # Tableau
   | Project Link | Project Description | Dashboard Link
