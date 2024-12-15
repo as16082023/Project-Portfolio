@@ -27,6 +27,7 @@ Welcome to my portfolio! This space showcases a summary of my projects in the da
 |  [Global Layoffs](https://github.com/as16082023/World-Layoffs)| Analyzing global company layoffs to uncover industry trends and workforce impacts through data cleaning and exploratory data analysis. |
 |[AtliQ Hardwares](https://github.com/as16082023/AtliQ-Hardware)| Analyzed data for Atliq Hardware to provide key insights through a SQL challenge. |
 |[Motor Vehicle Thefts](https://github.com/as16082023/Motor-Vehicle-Thefts)| Analyzed vehicle thefts in New Zealand to identify when and where they take place. |
+|[Goodcabs' Performance Analysis](https://github.com/as16082023/Goodcabs-Performance-Analysis)| Analysing Goodcabs' performance in transportation across India from January to June 2024. |
 
   # Tableau
   | Project Link | Project Description | Dashboard Link
