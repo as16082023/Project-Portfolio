@@ -35,6 +35,7 @@ Welcome to my portfolio! This space showcases a summary of my projects in the da
  [Space Missions Dashboard](https://github.com/as16082023/Space-Missions-dashboard) | Created a Tableau dashboard to visualize the history of space missions, highlighting key trends, patterns, and insights on launches, successes, companies, and rocket types. | [Dashboard](https://public.tableau.com/app/profile/akansha.shaw/viz/Book_spacemissions/Dashboard1) |
 |  [Law Enforcement Encounter Analysis](https://github.com/as16082023/Police-Encounter-Case-Study) | Develop a comprehensive Tableau dashboard analyzing US law enforcement encounters in 2015-2016 | [Dashboard](https://public.tableau.com/app/profile/akansha.shaw/viz/Book_policeencounter/Dashboard1) |
 |  [Online Retail Dashboard](https://github.com/as16082023/Forage--TATA--Virtual-Internship) | Completed a virtual internship with Forage-Tata, utilizing Excel for data cleaning, Tableau for visualization, and PowerPoint for presenting insights to address business questions.  |  [Dashboard](https://public.tableau.com/app/profile/akansha.shaw/viz/book_onlineretail/Dashboard1) |
+|  [Mapping Heart Health Risks](https://github.com/as16082023/Heart-Health-Dashboard?tab=readme-ov-file) | A Tableau project analyzing heart disease risks by age, gender, and key health metrics to identify critical trends and insights.  |  [Dashboard](https://public.tableau.com/app/profile/akansha.shaw7455/viz/HeartHealthRisks/Dashboard1) |
 
 
   # Power-BI
