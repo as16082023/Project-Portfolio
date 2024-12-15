@@ -13,7 +13,9 @@ Welcome to my portfolio! This space showcases a summary of my projects in the da
 |---|---|
  [Supermarket Sales](https://www.linkedin.com/in/akanshashaw230816/recent-activity/all/) | Examining the operational efficiency of supermarkets across three diverse urban landscapes, designed an Excel dashboard to visualize and analyze their performance metrics. |
  |  [Coffee Bean Sales](https://github.com/as16082023/Coffee-Bean-Sales-Analysis) | This project entails analyzing coffee bean sales data over four years to gain insights into consumer behavior and market trends. |
-|  [Account Sales Analysis](https://github.com/as16082023/Forage-JP-Morgan-Chase-Virtual-Internship) | Completed JPMorgan’s Excel skills for business job simulation on the Forage platform, and applied these concepts in a business context using account sales data.  |
+|  [Manufacturing Downtime Analysis](https://github.com/as16082023/Manufacturing-Downtime-Analysis) | The project focused on analyzing manufacturing downtime data for a beverage production line operated by Wolf Cola, aiming to uncover inefficiencies and deliver actionable recommendations to enhance productivity. |
+|  [Global Electronics Retailer](https://github.com/as16082023/Global-Electronics-Retailer) | Examined Maven Electronics' performance data to uncover factors contributing to the revenue decline since 2020.  |
+|  [Employee Survey Analysis](https://github.com/as16082023/Employee-Survey-Analysis) |Assessed survey data from 1,500 employees to evaluate job satisfaction and engagement, providing insights to enhance workplace culture and retention.  |
 
 
   
@@ -48,8 +50,9 @@ Welcome to my portfolio! This space showcases a summary of my projects in the da
 |  [Electric Vehicles Sales](https://github.com/as16082023/Electric-Vehicles-) | A resume project challenge by Codebasics, analyzing the EV/Hybrid Vehicles Industry to provide actionable insights for strategic decisions.  |
 
   # Python
-  | Project Link | Area | Project Description | Libraries |
-|---|---| --- | --- |
- [Hotel Booking Analysis](https://github.com/as16082023/Hotel-Booking-Analysis-EDA-) | Exploratory Data Analysis | This project explores and analyzes hotel booking data to identify key factors influencing bookings, providing insights for hotel management to enhance business performance through targeted campaigns. | Pandas, Matplotlib, Seaborn
+  | Project Link | Project Description |
+|---|--- |
+ [Hotel Booking Analysis](https://github.com/as16082023/Hotel-Booking-Analysis-EDA-) | This project explores and analyzes hotel booking data to identify key factors influencing bookings, providing insights for hotel management to enhance business performance through targeted campaigns. |
+ [Fuel Economy Prediction](https://github.com/as16082023/Fuel-Economy-Prediction) | The project focuses on predicting vehicle fuel efficiency (mpg) using linear regression in Python. | 
 
 
